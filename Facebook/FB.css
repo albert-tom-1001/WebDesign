@@ -1,0 +1,129 @@
+body{
+    margin: 0%;
+    font-family: Helvetica, Arial, sans-serif;;
+}
+.header{
+    background-color: #1877f2;
+    width: 100%;
+    height: 85px;
+}
+.logo{
+    width: 50%;
+    padding-top: 20px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+
+    
+}
+.logo-text{
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 35px;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-left: 172px;
+}
+.login-label{
+    color: #fff;
+    font-size: 12px;
+}
+.login-controls{
+    margin-left: 115px;
+}
+.forgotten{
+    color: #9cb4dB;
+    font-size: 11px;
+    text-decoration: none;
+}
+.sub-btn{
+    background-color: #4267b2;
+    border-color: #29487d;
+    height: 20px;
+    color: #fff;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    background-color: #1877f2;
+}
+.right-section{
+    display: flex;
+    width: 39%;
+    float: left;
+}
+.left-selection{
+    width: 40%;
+    float: left;
+    padding-left: 142px;
+    padding-top: 50px;
+}
+
+
+.main-body{
+    background: linear-gradient(#fff,#D3D8E8);
+    height: 500px;
+    width: 100%;
+}
+.image{
+    width: 450px;
+}
+.para{
+    font-weight: bold;
+    font-size: 22px;
+}
+.attributes{
+    height: 17px;
+    width: 150px;
+    border-radius: 3px;
+    font-size: 13px;
+    border-color: #fff;
+}
+.emailbox{
+    width: 39%;
+    height: 55px;
+    float: left;
+    margin-top: 10px;
+}
+.attributes1{
+    height: 17px;
+    width: 313px;
+    border-radius: 3px;
+    font-size: 13px;
+    border-color: #fff
+    
+    
+}
+.attributes2{
+    height: 17px;
+    margin-top: 10px;
+    width: 313px;
+    border-radius: 3px;
+    font-size: 13px;
+    border-color: #fff
+    
+    
+    
+}
+.day{
+margin-top: 9px;
+}
+.dob{
+    
+    height: 30px;
+    float:left;
+   
+    
+    /* width: 39%; */
+}
+.bdayngender{
+    font-size: 20px;
+    color: #717e7e;
+}
+.gender{
+    height: 30px;
+    
+    clear: both;
+}
